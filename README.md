@@ -1,12 +1,9 @@
-# Pulse City: Alien Forms (Roblox)
+# Pulse City: Alien Forms
 
-Roblox Studio place file for the Pulse City prototype.
+A Roblox Studio gameplay prototype built around transformations and form-specific abilities. The repository includes the editable place file.
 
-## Open the game
+## Playtest in Roblox Studio
 
-1. Download `PulseCityV1.rbxl`.
-2. Open it in Roblox Studio.
-3. Use **E** at a form station to transform.
-4. Use **A** for the active form ability on AZERTY keyboards.
-
-This repository contains the editable Roblox place file for the current prototype.
+1. Download [PulseCityV1.rbxl](PulseCityV1.rbxl) and open it in Roblox Studio.
+2. Start a playtest and press **E** at a form station to transform.
+3. Press **A** on an AZERTY keyboard to use the active form’s ability.
